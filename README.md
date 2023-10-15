@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,4 +10,4 @@ Currently, two official plugins are available:
 =======
 This is a Article Summarizer that has the power to summarize even websites. Used RapidAPI's article summarizer
 Technologies used : ReactJS,Redux Toolkit,RapidAPI
->>>>>>> 32629ee92e8c2f16d69a7825ffc7888ae7700f9d
+
